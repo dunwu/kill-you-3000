@@ -24,7 +24,7 @@
 
 ## 系统安全设计
 
-![img](https://raw.githubusercontent.com/dunwu/images/master/snap/20200119185714.png)
+![img](http://dunwu.test.upcdn.net/snap/20200119185714.png)
 
 ### 网站攻击
 
